@@ -1,5 +1,7 @@
 master
 
+* Update to Rails 5
+
 1.39.0 (May 25, 2016)
 
 * Update to Ruby 2.3.1
